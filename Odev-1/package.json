@@ -1,0 +1,16 @@
+{
+  "name": "odev-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Can Aydin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "node-fetch": "^3.2.3"
+  }
+}
